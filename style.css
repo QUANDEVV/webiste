@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 nav {
   background-color: black;
   overflow: hidden;
@@ -49,9 +48,41 @@ body{
   font-family: 'Times New Roman', Times, serif;
   ;
 }
+.top-left2 {
+  position: absolute;
+  top: 38px;
+  left: 16px;
+  font-size: xx-large;
+  font-family: 'Times New Roman', Times, serif;
+  ;
+}
+.top-left3 {
+  position: absolute;
+  top: 68px;
+  left: 16px;
+  font-size: xx-large;
+  font-family: 'Times New Roman', Times, serif;
+  ;
+}
+.top-left4 {
+  position: absolute;
+  top: 98px;
+  left: 16px;
+  font-size: xx-large;
+  font-family: 'Times New Roman', Times, serif;
+  ;
+}
+.top-left5 {
+  position: absolute;
+  top: 128px;
+  left: 16px;
+  font-size: xx-large;
+  font-family: 'Times New Roman', Times, serif;
+  ;
+}
 .image2{
   width: 15%;
- height: 10%;
+ height: 2.5%;
  padding-left: 60px;
 }
 
@@ -65,21 +96,11 @@ body{
 h1{
   color: aliceblue;
 }
-=======
-nav {
-    background-color: #640941;
-    overflow: hidden;
-  
-  }
-  
-  nav a {
-    float: left;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    margin-right: 10px;
-    font-family: sans-serif;
-    
-  }
->>>>>>> Stashed changes
+
+footer{
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-top: 10%;
+}
